@@ -1,1 +1,1 @@
-# GitHub_Jenkins by me
+Nexore.it is under development mode!
